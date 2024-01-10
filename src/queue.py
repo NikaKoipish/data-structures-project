@@ -7,7 +7,7 @@ class Node:
 
         :param data: данные, которые будут храниться в узле
         """
-        pass
+        pas
 
 
 class Queue:
